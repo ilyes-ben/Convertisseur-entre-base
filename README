@@ -1,5 +1,4 @@
-Le but du programme est de convertire un nombre de base n aux base m par (max base 10) , le programe peut detect si un nombre est vraiment dans la base entrer par l'utilisateur ou non . pour plus de detail ouvrire le convertisseur.c qui contien des commentaires pour expilquer comment le code fonction
-les fichiers sont :
-convertisseur.c  (le fichier du code)
-convertisseur (l'executable dans le terminal)
-convertisseur.cbp (le fichier du code blocks)
+The goal of the program is to convert a number from base n to base m by (max base 10), the program can detect if a number is really in the base entered by the user or not. for more detail open the converter.c which contains comments to explain how the code functions
+the files are:
+converter.c (the code file)
+converter (the executable in the terminal)
