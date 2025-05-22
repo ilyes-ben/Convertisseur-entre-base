@@ -1,4 +1,6 @@
-The goal of the program is to convert a number from base n to base m by (max base 10), the program can detect if a number is really in the base entered by the user or not. for more detail open the converter.c which contains comments to explain how the code functions
+The goal of the program is to convert a number from base N to M (max base 10) .
+the program can detect if a number is really in the base entered by the user or not . 
+for more detail open the converter.c which contains comments to explain how the code works .
 the files are:
 converter.c (the code file)
 converter (the executable in the terminal)
